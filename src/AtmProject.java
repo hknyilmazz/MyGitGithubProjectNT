@@ -7,6 +7,8 @@ public class AtmProject {
 
         System.out.println("Java is easy");
         //version2
+        System.out.println("Learn java earn Money");
+        //version3
 
 
 

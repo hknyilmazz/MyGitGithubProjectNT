@@ -11,6 +11,8 @@ public class AtmProject {
         //version3
         System.out.println("git öğrenmek çok kolay");
         //version4
+        System.out.println("hakan brancı kodlarını yazdı");
+        //version hkn1
 
 
 

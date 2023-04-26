@@ -14,6 +14,9 @@ public class AtmProject {
         System.out.println("hakan brancı kodlarını yazdı");
         //version hkn1
 
+        System.out.println("bir kısım kodlar");
+        //hkn2
+
 
 
 
